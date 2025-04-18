@@ -6,4 +6,4 @@ This repository provides a unfied multi-agent environment for benchmarking multi
 
 # Installation
 
-For usage instructions, please refer to the [BenchMARL repository](https://github.com/facebookresearch/BenchMARL?tab=readme-ov-file#how-to-use). After that, to use StarCraft II environment, make sure to follow installation guide provided in the [SMACv2 repository](https://github.com/oxwhirl/smacv2?tab=readme-ov-file#getting-started)
+For usage instructions, please refer to the [BenchMARL repository](https://github.com/facebookresearch/BenchMARL?tab=readme-ov-file#how-to-use). After that, to use StarCraft II environment, make sure to follow installation guide provided in the [SMACv2 repository](https://github.com/oxwhirl/smacv2?tab=readme-ov-file#getting-started).
